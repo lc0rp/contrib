@@ -1,4 +1,4 @@
-# contrib
+# Contrib index
 Index of lc0rp contribution forks/projects
 
 ## Projects
