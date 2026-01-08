@@ -1,7 +1,7 @@
 # Contrib index
 Index of lc0rp contribution forks/projects.
 
-Most live in [lc0ro-contrib](https://github.com/lc0rp-contrib/) org.
+Most live in [lc0rp-contrib](https://github.com/lc0rp-contrib/) org.
 
 ## Projects
 
