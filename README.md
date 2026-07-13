@@ -4,11 +4,13 @@ A curated list of open source projects I use and are contributing to, or have co
 
 ## Projects
 
+**AutoGPT:**
+- https://github.com/Significant-Gravitas/AutoGPT
+
 **Clawdbot:**
 - https://github.com/lc0rp-contrib/clawdbot -> https://github.com/clawdbot/clawdbot
 
-**Clawhub**
+**Clawhub:**
 - https://github.com/lc0rp-contrib/clawhub -> https://github.com/openclaw/clawhub
 
-**AutoGPT:**
-- https://github.com/Significant-Gravitas/AutoGPT
+
