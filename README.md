@@ -1,6 +1,10 @@
 # My contrib index
 
-A curated list of open source projects I use and are contributing to, or have conributed to or been a maintainer of. Most of my forks are in [lc0rp-contrib](https://github.com/lc0rp-contrib/) org.
+A curated list of open source projects I use and are contributing to, or have conributed to or been a maintainer of. 
+
+## Contrib org
+
+I keep public forks here: [lc0rp-contrib](https://github.com/lc0rp-contrib/).
 
 ## Projects
 
